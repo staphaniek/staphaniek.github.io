@@ -18,15 +18,21 @@ email: gino2401@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   staphaniek Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://staphaniek.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  staphaniek
+navbar-links:
+  About Me: "aboutme"
+author:
+  name: staphaniek
+  email: "gino2401@naver.com"
+  github: staphaniek
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+timezone: "Asia/Seoul"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
