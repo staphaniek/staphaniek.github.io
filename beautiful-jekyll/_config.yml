@@ -102,7 +102,7 @@ url-pretty: "staphaniek.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-125034203-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -158,7 +158,7 @@ defaults:
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
