@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: ""
+subtitle: staphaniek
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+1996년 3월 20일 태어남
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Education
 
-What else do you need?
+- 서울 서초초등학교 (2003. 03 ~ 2009.02)
+- 서울 서일중학교 (2009.03 ~ 2012.02)
+- 서울 경기고등학교 (2012.03 ~ 2015.02)
+- 고려대학교 정보대학 컴퓨터학과 (2015.03 ~ 현재)
 
-### my history
+### Work Experience
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* 고려대학교 민족문화연구원 (2016.08 ~ 2017.07)
+  - 서버실 전산조교
+* (주)블루홀 (2017.06 ~ 2017.08)
+  - 테라본부 프로그램팀 클라이언트프로그래밍 인턴
+* SW마에스트로 (2018.03 ~ 2018.08)
+  - 9기 예비연수생 / 연수생
