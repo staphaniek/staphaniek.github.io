@@ -1,3 +1,14 @@
+# 로컬에서 돌리기
+홈 디렉토리에서
+```
+bundle exec jekyll serve
+```
+하고
+```
+localhost:4000
+```
+에 들어가면 로컬에서 작성 내용을 확인할 수 있다.
+
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)

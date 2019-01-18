@@ -21,5 +21,10 @@ subtitle: staphaniek
   - 테라본부 프로그램팀 클라이언트프로그래밍 인턴
 * SW마에스트로 (2018.03 ~ 2018.07)
   - 9기 예비연수생 / 연수생
-* VCNC (2018.07 ~ 현재)
+* VCNC(주) (2018.07 ~ 현재)
   - Value Developer (Server Dev. Team)
+
+### Scholarship
+* 종하장학금
+* 성적 우수장학금
+* 국가 이공계 우수 장학금
