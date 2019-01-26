@@ -9,8 +9,8 @@ Mysql은 POINT라는 geometric 타입을 지원합니다.
 테이블 이름을 T, Point type으로 정의된 column을 P라고 할 때,
 ```Mysql
 SELECT
-  X(P) AS Latitude,
-  Y(P) AS Longitude
+  X(P) AS 'Latitude',
+  Y(P) AS 'Longitude'
 FROM
   T
 ```
