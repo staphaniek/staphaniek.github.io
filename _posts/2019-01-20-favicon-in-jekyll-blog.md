@@ -28,4 +28,3 @@ comments: true
 - ![이미지 텍스트]({{"/assets/img/image.png"| relative_url}})
 - ![이미지 텍스트](/assets/img/image.png)
 ```
-끝입니당! 하하하!
