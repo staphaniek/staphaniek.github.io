@@ -1,9 +1,16 @@
-# 로컬에서 돌리기
+# bundle(jekyll) 설치
+
+```
+bundle install
+```
+
+# 로컬에서 실행하기
+
 홈 디렉토리에서
 ```
 bundle exec jekyll serve
 ```
-하고
+커멘드를 실행하고,
 ```
 localhost:4000
 ```
