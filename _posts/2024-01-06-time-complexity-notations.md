@@ -11,7 +11,7 @@ Even though we commonly use the Big-Oh notation as the tightest upper-bound time
 
 Since I was confused when I tried to utilize this definition in my Algorithms course, I want to share how I understood this concept to help others who might struggle with this notion.
 
-Although I tried my best to understand and contain all the knowledge presented so far, this post might have some wrong information or errors. Please feel free to contact me if you have any doubts about the content. I will do my best to resolve them.
+Although I tried my best to understand and contain all the knowledge regarding the topic, this post might have some wrong information or errors. Please feel free to contact me if you have any doubts about the content. I will do my best to resolve them.
 
 # Definition of time complexity notation
 
