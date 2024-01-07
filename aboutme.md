@@ -1,17 +1,15 @@
 ---
 layout: page
 title: ""
-subtitle: staphaniek
+subtitle: Gino Kwun (권지노)
 ---
-
-1996년 3월 20일 태어남
 
 ### Education
 
-- 서울 서초초등학교 (2003. 03 ~ 2009.02)
-- 서울 서일중학교 (2009.03 ~ 2012.02)
-- 서울 경기고등학교 (2012.03 ~ 2015.02)
-- 고려대학교 정보대학 컴퓨터학과 (2015.03 ~ 현재)
+- M.S. in Computer Science, University of Southern California, CA, USA (2023.08 - )
+- B.Eng in Computer Science and Engineering, Korea University, Seoul, South Korea (2015.03 - 2022.02)
+  - Highest Honor (Valedictorian) from College of Informatics
+- Kyunggi High School (2012.03 - 2015.02)
 
 ### Work Experience
 
