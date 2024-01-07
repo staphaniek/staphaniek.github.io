@@ -9,7 +9,7 @@ When denoting an algorithm's time complexity, we typically use Big-Oh (O) notati
 
 Even though we commonly use the Big-Oh notation as the tightest upper-bound time complexity of an algorithm, the formal definition of Big-O notation is slightly different from the widespread usage, especially when there is no given implementation of the algorithm. This definition often confuses us when dealing with the time complexity in theoretical computer science.
 
-Since I was confused when I tried to utilize this definition in my Algorithms course, I want to share how I understood this concept to help others who might struggle with this notion.
+Since I was confused when I tried to utilize this definition in my Algorithms course, I want to share how I understood this concept to help others who might have similar issues with this notion.
 
 Although I tried my best to understand and contain all the knowledge regarding the topic, this post might have some wrong information or errors. Please feel free to contact me if you have any doubts about the content. I will do my best to resolve them.
 
