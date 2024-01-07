@@ -13,7 +13,7 @@ url: "http://staphaniek.github.io"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: staphaniek blog
+title: Gino Kwun
 
 # Short description of your site
 description: staphaniek blog
@@ -22,6 +22,7 @@ description: staphaniek blog
 
 # List of links in the navigation bar
 navbar-links:
+  Posts: ""
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -70,6 +71,7 @@ social-network-links:
   rss: true
   email: "gino2401@naver.com"
   github: staphaniek
+  linkedin: ginokwun
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
