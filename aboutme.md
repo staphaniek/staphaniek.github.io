@@ -33,7 +33,7 @@ subtitle: Gino Kwun (권지노)
 * Highest Honor Award (Graduation Highest Honor), Korea University 2022
 * National Science and Engineering Scholarship 2017-2022
 * Dean's List, Korea University 2016
-* Korea University Best Honors Scholarships 2016
+* Korea University Best Honors Scholarships 2015
 * Semester High Honor, Korea University 2015 - 2018 (7 semesters)
 * ACM-ICPC Ho-chi-minh city Regional Honorable mention 2017
 * ACM-ICPC Daejeon Regional 2017 17th Place / 2015 23rd Place
