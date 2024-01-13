@@ -13,7 +13,7 @@ subtitle: Gino Kwun (권지노)
 
 ### Professional Experience
 
-* Server Dev. Team Leader, VCNC (2018.07 - 2023.06)
+* Server Dev. Team Leader, VCNC, South Korea (2018.07 - 2023.06)
   - Developed large-scale online-to-offline server systems that require scalability, robustness, and high performance
   - Executed DevOps duties for TADA (ride-hailing platform), CASTING (used-car sales platform) - monitored systems with Prometheus, controlled deployment cycles with Jenkins, fixed runtime errors
   - Implemented core features for TADA, CASTING server systems with Kotlin, Spring-Boot, JPA, gRPC, Protobuf, Mysql and deployed in AWS using Docker, Kubernetes
@@ -21,10 +21,10 @@ subtitle: Gino Kwun (권지노)
   - Improved work cultures/processes - re-formatted team meetings, introduced code review meeting and tech time, updated tutorial process for newcomers
   - Supervised software engineer hiring process - reviewed resumes, led phone interviews and technical interviews
   - Maintained ETL data pipelines with Spark EMR
-* Client Programming Intern, Bluehole Game Studio (2017.06 - 2017.08)
+* Client Programming Intern, Bluehole Game Studio, South Korea (2017.06 - 2017.08)
   - Client Programming Intern at TERA Headquarters 
   - Experienced the whole game client development cycle (plan, design, implement, test) with own game client project using cocos2d, c++, sqlite3
-* Computational Assistant, Research Institute for Korean Study (2016.08 - 2017.07)
+* Computational Assistant, Research Institute for Korean Study, South Korea (2016.08 - 2017.07)
   - Maintained all research servers and institute websites
   - Developed software tools (Corpus analysis admin website, Chinese character encoder)
   - Provided technical and communicational support for the external development team in the RIKS homepage renewal
