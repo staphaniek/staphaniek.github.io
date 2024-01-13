@@ -34,7 +34,7 @@ subtitle: Gino Kwun (권지노)
 * National Science and Engineering Scholarship 2017-2022
 * Dean's List, Korea University 2016
 * Korea University Best Honors Scholarships 2016
-* Semester High Honor, Korea University, 2015 - 2018 (7 semesters)
+* Semester High Honor, Korea University 2015 - 2018 (7 semesters)
 * ACM-ICPC Daejeon Regional 2017 17th Place / 2015 23rd Place
 * Samsung Collegiate Programming Cup (SCPC) Finalist 2015, 2016
 * LG Code Challenger Finalist 2015
